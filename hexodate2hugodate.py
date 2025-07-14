@@ -8,7 +8,7 @@ from datetime import datetime
 from dateutil import tz
 
 # 设定源文件夹和目标文件夹路径
-source_dir = "/home/freya/obsp-hexo/source/_posts"  # Change it to your own
+source_dir = "source_dir"  # Change it to your own
 output_dir = "output_dir"  # Change it to your own
 
 # 自动创建输出目录
